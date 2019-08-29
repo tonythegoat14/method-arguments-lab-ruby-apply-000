@@ -1,2 +1,3 @@
 --color
 --require spec_helper
+--require < ./spec/introduction_spec.rb:5:in `block (2 levels) in <top (required)>'
